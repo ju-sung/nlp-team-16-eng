@@ -1,6 +1,8 @@
 # nlp-team-16-eng
 for nlp sentiment analysis project
 
+파일들을 보시기 위해서 크롬 브라우저를 사용하셔야 합니다.
+
 메인 소스코드는 강의 실습자료인
 https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing
 를 참고하여 작성했습니다.
