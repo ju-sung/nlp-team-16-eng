@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sh
 
 2. 구글드라이브에 "test"라는 폴더를 만듭니다.
 
-3. "friends_train.json", "friends_dev.json", "friends_test.json", "en_data.csv" 네개의 파일을 그 폴더에 저장합니다.
+3. "friends_train.json", "friends_dev.json", "friends_test.json", "en_data.csv" 네개의 파일을 그 "test"폴더에 저장합니다.
 
 4. 구글드라이브에 저장한 Team16_eng.ipynb파일을 코랩에서 실행시키고, 코드 블록들을 순서대로 실행시킵니다.
 
