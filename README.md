@@ -14,9 +14,9 @@ https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sh
 
 4. 구글드라이브에 저장한 Team16_eng.ipynb파일을 코랩에서 실행시키고, 코드 블록들을 순서대로 실행시킵니다.
 
-("training" block을 실행시키면 dev set으로 검증한 F1-score가 나옵니다)
+  ("training" block을 실행시키면 dev set으로 검증한 F1-score가 나옵니다)
 
-("print out F1-score which is calculated with test dataset" block을 실행시키면 test set으로 검증한 F1-score가 나옵니다)
+  ("print out F1-score which is calculated with test dataset" block을 실행시키면 test set으로 검증한 F1-score가 나옵니다)
 
 5. 맨 밑의 "this is for leader board csv file" block을 실행시키면 구글드라이브의 "test" 폴더에 "test_output.csv" 파일이 생성됩니다.
 이 파일은 캐글 리더보드에 제출하는 용도로 사용됩니다.
