@@ -10,6 +10,7 @@ https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sh
 캐글 리더보드에 제출한 파일은 Team16_eng.ipynb를 사용했습니다.
 
 프렌즈_CNN.ipynb 파일은 중간발표때에 구현했었던 코드입니다. 보고서 성능비교 부분에 적어 두었기 때문에 참고용으로 같이 업로드 했습니다.
+프렌즈_CNN.ipynb는 조교님 github인 https://github.com/Parkchanjun/KU-NLP-2020-1 를 참조했습니다
 
 실행방법
 1. 구글드라이브에 Team16_eng.ipynb 파일을 업로드합니다. 이때, 구글드라이브의 루트 디렉토리에 업로드 해야합니다.
