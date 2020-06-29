@@ -28,4 +28,6 @@ https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sh
 5. 맨 밑의 "this is for leader board csv file" block을 실행시키면 구글드라이브의 "test" 폴더에 "test_output.csv" 파일이 생성됩니다.
 이 파일은 캐글 리더보드에 제출하는 용도로 사용됩니다.
 
+조원: 강주성 2017320138, 홍한영 2017320133, 신정환 2017170816, 나탈리 시오 2017320106
+
 
